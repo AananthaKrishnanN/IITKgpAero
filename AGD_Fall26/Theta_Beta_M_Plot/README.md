@@ -14,7 +14,7 @@ This project contains a numerical solver and MATLAB plotting tool to generate $\
    ./solver
 
 ## RESULT:
-![alt text](<Theta-Beta-Mach Curves-1.png>)
+![alt text](<Theta-Beta-Mach Curves.png>)
 
 The plot visualizes the standard oblique shock wave relations for compressible flow. It charts the shock angle ($\beta$) on the y-axis against the flow deflection angle ($\theta$) on the x-axis across a range of upstream Mach numbers. 
 
