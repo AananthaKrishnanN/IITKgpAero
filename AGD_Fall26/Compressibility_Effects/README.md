@@ -10,7 +10,9 @@ The `Compressibility Effects.xlsx` file contains three cases:
 ## Visualizations
 
 ![Velocity Change for Constant Density](velocity_mach_plot.png)
+
 *At M < 0.3, it takes massive velocity changes to compress the fluid, demonstrating the incompressible assumption.*
 
 ![Density Change vs Mach](density_mach_plot.png)
+
 *At supersonic speeds, density drops drastically even for small velocity increases.*
